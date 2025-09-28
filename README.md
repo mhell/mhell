@@ -1,4 +1,4 @@
-<center># Hi 👋, I'm Mattias</center>center
+<h1 align=center>Hi 👋, I'm Mattias</h1>
 
 ### A software engineer from Sweden
 
