@@ -6,9 +6,9 @@ I’m a software engineer focused on web and mobile development. I enjoy explori
 
 ### 🚀 Areas I’m passionate about
 - Frontend and backend web development
--  User-centric design and UX
--  Game and interactive media development
--  Agile and test-driven practices
+- User-centric design and UX
+- Game and interactive media development
+- Agile and test-driven practices
 
 ### 📚 Learning
 - Java Spring
