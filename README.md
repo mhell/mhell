@@ -25,9 +25,9 @@ I’m a software engineer focused on web and mobile development. I enjoy explori
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhell&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!--![](https://nirzak-streak-stats.vercel.app/?user=mhell&theme=vue&hide_border=false)-->
 
+<!-- 
 ![](https://github-profile-trophy.vercel.app/?username=mhell&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- 
 # Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mhell&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
