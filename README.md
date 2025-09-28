@@ -1,11 +1,12 @@
 <h1 align=center>Hi 👋, I'm Mattias</h1>
 
-## A software engineer from Sweden
+<h3 align=center> A fullstack developer from Sweden</h3>
 
-I’m a software developer focused on webb and mobile development. I enjoy exploring new tools, experimenting with fresh ideas, and collaborating on meaningful digital projects. 
+I’m a software engineer focused on web and mobile development. I enjoy exploring new tools, experimenting with fresh ideas, and collaborating on exciting digital projects. 
 
-## 🚀 Areas I’m passionate about:
+<!--Always looking for opportunities to collaborate, learn, and build meaningful digital experiences.-->
 
+## 🚀 Areas I’m passionate about
 - Frontend and backend web development
 - User-centric design and UX
 - Game and interactive media development
