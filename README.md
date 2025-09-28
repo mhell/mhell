@@ -1,20 +1,20 @@
-# Hi 👋, I'm Mattias
+<center># Hi 👋, I'm Mattias</center>center
 
-## A software engineer from Sweden
+### A software engineer from Sweden
 
 I’m a software developer focused on webb and mobile development. I enjoy exploring new tools, experimenting with fresh ideas, and collaborating on meaningful digital projects. 
 
-## 🚀 Areas I’m passionate about:
+### 🚀 Areas I’m passionate about:
 
 - Frontend and backend web development
 - User-centric design and UX
 - Game and interactive media development
 - Agile and test-driven practices
 
-## 💻 Current projects
+### 💻 Current projects
 - NodeBBReader [WIP] - Side project
 
-## 📚 Learning
+### 📚 Learning
 - Java Spring
 - React
 
