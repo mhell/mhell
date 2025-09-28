@@ -1,7 +1,5 @@
 # Hi 👋, I'm Mattias
 
----
-
 ## A software engineer from Sweden
 
 I’m a software developer focused on webb and mobile development. I enjoy exploring new tools, experimenting with fresh ideas, and collaborating on meaningful digital projects. 
