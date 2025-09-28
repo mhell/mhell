@@ -2,9 +2,7 @@
 
 <h3 align=center> A fullstack developer from Sweden</h3>
 
-I’m a software engineer focused on web and mobile development. I enjoy exploring new tools, experimenting with fresh ideas, and collaborating on exciting digital projects. 
-
-<!--Always looking for opportunities to collaborate, learn, and build meaningful digital experiences.-->
+I’m a software engineer focused on web and mobile development. I enjoy exploring new tools, experimenting with fresh ideas, and turning concepts into clean, user-friendly solutions.  I'm always looking for opportunities to collaborate, learn, and build exciting digital experiences.
 
 ## 🚀 Areas I’m passionate about
 - Frontend and backend web development
