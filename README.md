@@ -12,7 +12,7 @@ I’m a software engineer focused on web and mobile development. I enjoy explori
 
 **📚 I’m currently learning**
 - Java Spring
-- React and React Native
+- React & React Native
 
 ## Current projects
 <!-- - NodeBBReader [WIP] -->
