@@ -23,10 +23,10 @@ I’m a software engineer focused on web and mobile development. I enjoy explori
 
 ## GitHub Stats
 <span>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mhell&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&hide=issues" />
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=mhell&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&hide=issues" />
 </span>
 <span>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhell&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mhell&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </span>
 
 <!-- 
